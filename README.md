@@ -1,3 +1,4 @@
 # Miwok
-Miwok 1 contains all the functonality that Miwok2 has just Miwok 2 has additional ViewPager in it
+Miwok is a great app in which user can listen and see how to spell a cerain word or line in Miwok language.
+ 
 
